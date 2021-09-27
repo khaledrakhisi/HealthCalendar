@@ -1,0 +1,257 @@
+﻿Installing assembly 'D:\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.InstallLog
+   assemblypath = D:\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe
+Installing service HealthCalendarService...
+Service HealthCalendarService has been successfully installed.
+Creating EventLog source HealthCalendarService in log Application...
+Committing assembly 'D:\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.InstallLog
+   assemblypath = D:\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe
+Uninstalling assembly 'D:\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.InstallLog
+   assemblypath = D:\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe
+Removing EventLog source HealthCalendarService.
+Service HealthCalendarService is being removed from the system...
+Service HealthCalendarService was successfully removed from the system.
+Installing assembly 'D:\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.InstallLog
+   assemblypath = D:\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe
+Installing service HealthCalendarService...
+Service HealthCalendarService has been successfully installed.
+Creating EventLog source HealthCalendarService in log Application...
+Committing assembly 'D:\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.InstallLog
+   assemblypath = D:\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe
+Uninstalling assembly 'D:\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.InstallLog
+   assemblypath = D:\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe
+Removing EventLog source HealthCalendarService.
+Service HealthCalendarService is being removed from the system...
+Service HealthCalendarService was successfully removed from the system.
+Installing assembly 'D:\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.InstallLog
+   assemblypath = D:\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe
+Installing service HealthCalendarService...
+Service HealthCalendarService has been successfully installed.
+Creating EventLog source HealthCalendarService in log Application...
+Committing assembly 'D:\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.InstallLog
+   assemblypath = D:\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe
+Uninstalling assembly 'D:\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.InstallLog
+   assemblypath = D:\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe
+Removing EventLog source HealthCalendarService.
+Service HealthCalendarService is being removed from the system...
+Service HealthCalendarService was successfully removed from the system.
+Installing assembly 'D:\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.InstallLog
+   assemblypath = D:\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe
+Installing service HealthCalendarService...
+Service HealthCalendarService has been successfully installed.
+Creating EventLog source HealthCalendarService in log Application...
+Committing assembly 'D:\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.InstallLog
+   assemblypath = D:\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe
+Installing assembly 'D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.InstallLog
+   assemblypath = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe
+Installing service HealthCalendarService...
+Creating EventLog source HealthCalendarService in log Application...
+Rolling back assembly 'D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.InstallLog
+   assemblypath = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe
+Restoring event log to previous state for source HealthCalendarService.
+Installing assembly 'D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe'.
+Affected parameters are:
+   unstall = 
+   logtoconsole = 
+   logfile = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.InstallLog
+   assemblypath = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe
+Installing service HealthCalendarService...
+Creating EventLog source HealthCalendarService in log Application...
+Rolling back assembly 'D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe'.
+Affected parameters are:
+   unstall = 
+   logtoconsole = 
+   logfile = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.InstallLog
+   assemblypath = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe
+Restoring event log to previous state for source HealthCalendarService.
+Uninstalling assembly 'D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.InstallLog
+   assemblypath = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe
+Removing EventLog source HealthCalendarService.
+Service HealthCalendarService is being removed from the system...
+Service HealthCalendarService was successfully removed from the system.
+Installing assembly 'D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.InstallLog
+   assemblypath = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe
+Installing service HealthCalendarService...
+Service HealthCalendarService has been successfully installed.
+Creating EventLog source HealthCalendarService in log Application...
+Committing assembly 'D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.InstallLog
+   assemblypath = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe
+Uninstalling assembly 'D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.InstallLog
+   assemblypath = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe
+Removing EventLog source HealthCalendarService.
+Service HealthCalendarService is being removed from the system...
+Service HealthCalendarService was successfully removed from the system.
+Installing assembly 'D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.InstallLog
+   assemblypath = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe
+Installing service HealthCalendarService...
+Service HealthCalendarService has been successfully installed.
+Creating EventLog source HealthCalendarService in log Application...
+Committing assembly 'D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.InstallLog
+   assemblypath = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe
+Uninstalling assembly 'D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.InstallLog
+   assemblypath = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe
+Removing EventLog source HealthCalendarService.
+Service HealthCalendarService is being removed from the system...
+Service HealthCalendarService was successfully removed from the system.
+Uninstalling assembly 'D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.InstallLog
+   assemblypath = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe
+Removing EventLog source HealthCalendarService.
+Warning: The source HealthCalendarService is not registered on the local machine.
+Service HealthCalendarService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.InstallLog
+   assemblypath = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe
+Installing service HealthCalendarService...
+Service HealthCalendarService has been successfully installed.
+Creating EventLog source HealthCalendarService in log Application...
+Committing assembly 'D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.InstallLog
+   assemblypath = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe
+Uninstalling assembly 'D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.InstallLog
+   assemblypath = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe
+Removing EventLog source HealthCalendarService.
+Service HealthCalendarService is being removed from the system...
+Service HealthCalendarService was successfully removed from the system.
+Installing assembly 'D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.InstallLog
+   assemblypath = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe
+Installing service HealthCalendarService...
+Service HealthCalendarService has been successfully installed.
+Creating EventLog source HealthCalendarService in log Application...
+Committing assembly 'D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.InstallLog
+   assemblypath = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe
+Installing assembly 'D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.InstallLog
+   assemblypath = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe
+Installing service HealthCalendarService...
+Creating EventLog source HealthCalendarService in log Application...
+Rolling back assembly 'D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.InstallLog
+   assemblypath = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe
+Restoring event log to previous state for source HealthCalendarService.
+Installing assembly 'D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.InstallLog
+   assemblypath = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe
+Installing service HealthCalendarService...
+Creating EventLog source HealthCalendarService in log Application...
+Rolling back assembly 'D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.InstallLog
+   assemblypath = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe
+Restoring event log to previous state for source HealthCalendarService.
+Uninstalling assembly 'D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.InstallLog
+   assemblypath = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe
+Removing EventLog source HealthCalendarService.
+Service HealthCalendarService is being removed from the system...
+Service HealthCalendarService was successfully removed from the system.
+Uninstalling assembly 'D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.InstallLog
+   assemblypath = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe
+Removing EventLog source HealthCalendarService.
+Warning: The source HealthCalendarService is not registered on the local machine.
+Service HealthCalendarService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.InstallLog
+   assemblypath = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe
+Installing service HealthCalendarService...
+Service HealthCalendarService has been successfully installed.
+Creating EventLog source HealthCalendarService in log Application...
+Committing assembly 'D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.InstallLog
+   assemblypath = D:\Develop\Develop\csharp\HealthCalendar\HealthCalendarService\bin\Debug\HealthCalendarService.exe
